@@ -1,0 +1,23 @@
+{
+  "name": "@xyseb/intra-nt",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "./commons/*",
+    "./projects/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyseb/_mono.git"
+  },
+  "author": "Sebastien Deschamps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyseb/_mono/issues"
+  },
+  "homepage": "https://github.com/xyseb/_mono#readme"
+}
